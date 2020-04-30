@@ -1,0 +1,29 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MB2K2_V1.PcbDoc   4/27/2020  1:39:12 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : MB2K2_V1-Plated.TXT
+ASCII Non-Plated RoundHoles File : MB2K2_V1-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             188       PTH        0.00mm (0.00inch)
+T2      0.7mm (28mil)                                             Round             15        PTH        0.00mm (0.00inch)
+T3      0.8mm (31mil)                                             Round             27        PTH        0.00mm (0.00inch)
+T4      0.89mm (35mil)                                            Round             6         PTH        0.00mm (0.00inch)
+T5      0.9mm (35mil)                                             Round             6         PTH        0.00mm (0.00inch)
+T6      1mm (39mil)                                               Round             21        PTH        0.00mm (0.00inch)
+T7      1.1mm (43mil)                                             Round             13        PTH        0.00mm (0.00inch)
+T8      1.2mm (47mil)                                             Round             34        PTH        0.00mm (0.00inch)
+T9      1.3mm (51mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T10     1.85mm (73mil)                                            Round             2         PTH        0.00mm (0.00inch)
+T11     1.93mm (76mil)                                            Round             2         PTH        0.00mm (0.00inch)
+T12     2.29mm (90mil)                                            Round             3         PTH        0.00mm (0.00inch)
+T13     2.3mm (91mil)                                             Round             2         PTH        0.00mm (0.00inch)
+T14     3.7mm (146mil)                                            Round             1         PTH        0.00mm (0.00inch)
+T15     1.93mm (76mil)                                            Round             2         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              323
+
+Total Processing Time (hh:mm:ss) : 00:00:00
