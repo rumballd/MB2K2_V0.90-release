@@ -1,0 +1,76 @@
+*************************************************************
+FileName = MB2K2_V1.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\matrix\matrix
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\profile
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\stephdr
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\attrlist
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\mid_layer_2\features
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\mid_layer_2\attrlist
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\mid_layer_1\features
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\mid_layer_1\attrlist
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\internal_plane_1\features
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\internal_plane_1\attrlist
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\internal_plane_2\features
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\internal_plane_2\attrlist
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\top_layer\features
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : D:\MB2K2\Hardware\PCB\MB2K2_V1A\Project Outputs\ODB\odb\steps\pcb\eda\data
+
